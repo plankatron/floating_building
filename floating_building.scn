@@ -60,7 +60,7 @@
         0
       ],
       "physics": true,
-      "start_url": "https://plankatron.github.io/floatin_building/floating_building.glb",
+      "start_url": "https://plankatron.github.io/floating_building/floating_building.glb",
       "dynamic": false
     }
   ]
